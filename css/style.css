@@ -1082,11 +1082,11 @@ ul.product-categories li a:hover{
 	text-decoration:none;
 	color:#E23535;
 }
-.product-categories li span.count {
+/*.product-categories li span.count {
 	float: right;
 	color: #aaa;
 	font-size:0.8125em;
-}
+}*/
 ul.product-categories li  a {
 	-webkit-transition: background 350ms ease-in-out,border-color 350ms ease-in-out,color 150ms ease-in-out;
 	-moz-transition: background 350ms ease-in-out,border-color 350ms ease-in-out,color 150ms ease-in-out;
