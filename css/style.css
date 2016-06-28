@@ -1067,6 +1067,7 @@ ul.social li a i.tw{
 	text-transform: uppercase;
 }
 ul.product-categories{
+    text-align : left;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
@@ -1083,7 +1084,6 @@ ul.product-categories li a:hover{
 }
 .product-categories li span.count {
 	float: right;
-	margin-left: 6px;
 	color: #aaa;
 	font-size:0.8125em;
 }
@@ -1195,7 +1195,7 @@ ul.women_pagenation li a:hover{
 	color:#fff;
 }
 .product_container {
-	text-align: left;
+	text-align: center;
 	padding:1em;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
